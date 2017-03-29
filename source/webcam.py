@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+# Author: SAVITHRU M LOKANATH
+
 import cv2
 
 cv2.namedWindow("preview")
