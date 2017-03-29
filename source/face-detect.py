@@ -1,5 +1,8 @@
-#! /usr/bin/python
- 
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+# Author: SAVITHRU M LOKANATH
+
 import cv2
  
 face_cascade = cv2.CascadeClassifier('lbpcascade_frontalface.xml')
